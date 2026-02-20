@@ -1,0 +1,9 @@
+sagemaker>=2.150.0
+boto3>=1.26.0
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+joblib>=1.2.0
+kaggle>=1.5.12
+pytest>=7.2.0
